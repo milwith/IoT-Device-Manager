@@ -28,7 +28,7 @@ mvn exec:java -Dexec.mainClass="com.cf.Main"
 | PUT    | /api/devices/{id} | Update an existing device |
 | DELETE | /api/devices/{id} | Delete a device           |
 
-## RUNNING TESTS
+## RUN UNIT TESTS
 ```bash
 mvn test
 ```
